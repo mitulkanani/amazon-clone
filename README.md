@@ -19,3 +19,7 @@ Run commands
 2. `yarn install`
 
 3. `yarn run dev`
+
+### Check live url here
+
+https://amazon-clone-lovat-nine.vercel.app/
